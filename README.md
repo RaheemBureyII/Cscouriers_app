@@ -4,9 +4,9 @@ This project is a modernized and fully updated shipping application for **CS Cou
 
 ## **Project Overview**  
 🚀 **Updated & Published for CS Couriers**  
-- 🔹 Improved package tracking and management  
-- 🔹 Enhanced UI/UX for a smoother experience  
-- 🔹 Optimized performance and security  
+🔹 Improved package tracking and management  
+🔹 Enhanced UI/UX for a smoother experience  
+🔹 Optimized performance and security  
 
 ## **Features**  
 ✅ **Real-time package tracking** – Users can monitor their shipments effortlessly  
